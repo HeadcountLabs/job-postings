@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Headcount Labs Job Postings"
+authors:
+  - name: "Headcount Labs"
+    website: "https://headcountlabs.com"
+date-released: 2026-10-19
+license: CC-BY-4.0
+url: "https://headcountlabs.com"
+repository: "https://huggingface.co/datasets/HeadcountLabs/job-postings"
+repository-code: "https://github.com/HeadcountLabs/job-postings"
+abstract: "8,367,463 job postings read from employers' own career pages and hiring systems, with copies of the same opening merged into one job. Snapshot of 2026-10-19."
+keywords:
+  - job postings
+  - labor market
+  - dataset
