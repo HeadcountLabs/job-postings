@@ -7,7 +7,7 @@
 An open dataset of **8,367,463 job postings** read straight from employers' own career pages and hiring systems,
 plus a live API and MCP server that serve the same jobs, updated daily.
 
-- **Dataset:** [huggingface.co/datasets/HeadcountLabs/job-postings](https://huggingface.co/datasets/HeadcountLabs/job-postings), ODbL 1.0, 8.9 GB of Parquet.
+- **Dataset:** the full download is coming soon (it is private for now). Public subsets, ODbL 1.0, are at [huggingface.co/HeadcountLabs](https://huggingface.co/HeadcountLabs).
 - **Live API:** [headcountlabs.com/docs](https://headcountlabs.com/docs/), free for the first 100,000 records each month.
 - **MCP server for AI agents:** [headcountlabs.com/mcp](https://headcountlabs.com/mcp/), with a no-account endpoint.
 - **Website:** [headcountlabs.com](https://headcountlabs.com).
