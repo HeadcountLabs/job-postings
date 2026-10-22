@@ -6,7 +6,7 @@ authors:
   - name: "Headcount Labs"
     website: "https://headcountlabs.com"
 date-released: 2026-10-19
-license: CC-BY-4.0
+license: ODbL-1.0
 url: "https://headcountlabs.com"
 repository: "https://huggingface.co/datasets/HeadcountLabs/job-postings"
 repository-code: "https://github.com/HeadcountLabs/job-postings"

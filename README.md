@@ -7,7 +7,7 @@
 An open dataset of **8,367,463 job postings** read straight from employers' own career pages and hiring systems,
 plus a live API and MCP server that serve the same jobs, updated daily.
 
-- **Dataset:** [huggingface.co/datasets/HeadcountLabs/job-postings](https://huggingface.co/datasets/HeadcountLabs/job-postings), CC BY 4.0, 8.9 GB of Parquet.
+- **Dataset:** [huggingface.co/datasets/HeadcountLabs/job-postings](https://huggingface.co/datasets/HeadcountLabs/job-postings), ODbL 1.0, 8.9 GB of Parquet.
 - **Live API:** [headcountlabs.com/docs](https://headcountlabs.com/docs/), free for the first 100,000 records each month.
 - **MCP server for AI agents:** [headcountlabs.com/mcp](https://headcountlabs.com/mcp/), with a no-account endpoint.
 - **Website:** [headcountlabs.com](https://headcountlabs.com).
@@ -212,15 +212,17 @@ reads [`CITATION.cff`](CITATION.cff). BibTeX:
   month        = oct,
   publisher    = {Hugging Face},
   howpublished = {\url{https://huggingface.co/datasets/HeadcountLabs/job-postings}},
-  note         = {Snapshot of 2026-10-19, CC BY 4.0}
+  note         = {Snapshot of 2026-10-19, ODbL 1.0}
 }
 ```
 
 ## License
 
-The dataset and the sample in this repository are licensed under [CC BY 4.0](LICENSE). The example code in
-[`examples/`](examples/) is under the [MIT License](examples/LICENSE). Job posting text, employer names and logos
-belong to the employers that published them.
+The dataset and the sample in this repository are under the [Open Database License (ODbL) 1.0](LICENSE). Our own
+values in them are under the [Database Contents License (DbCL) 1.0](https://opendatacommons.org/licenses/dbcl/1-0/).
+The example code in [`examples/`](examples/) is under the [MIT License](examples/LICENSE). Job description text is
+the employer's own text and is not licensed by us. Employer names and logos belong to the employers that published
+them. Location data includes data from OpenStreetMap contributors (ODbL) and Overture Maps.
 
 Questions, corrections or takedown requests: [headcountlabs.com/contact](https://headcountlabs.com/contact/) or
 support@headcountlabs.com.
