@@ -14,6 +14,17 @@ plus a live API and MCP server that serve the same jobs, updated daily.
 
 Star this repository to follow new releases of the dataset.
 
+## Guides and comparisons
+
+- [Best job posting data APIs in 2026](https://headcountlabs.com/guides/best-job-posting-data-apis/): providers compared on published prices and free allowances
+- [Free job posting APIs: what is actually free](https://headcountlabs.com/guides/free-job-postings-api/)
+- [Job search MCP servers compared](https://headcountlabs.com/guides/job-search-mcp-servers/)
+- [Public job APIs of applicant tracking systems](https://headcountlabs.com/guides/ats-public-job-apis/) (Greenhouse, Lever, Ashby, Workday)
+- [Does LinkedIn have a jobs API?](https://headcountlabs.com/guides/linkedin-jobs-api/), [Does Indeed have an API?](https://headcountlabs.com/guides/does-indeed-have-an-api/), [Is there a Google Jobs API?](https://headcountlabs.com/guides/google-jobs-api/), [Does Glassdoor have an API?](https://headcountlabs.com/guides/glassdoor-api/)
+- Alternatives for job postings data: [Coresignal](https://headcountlabs.com/alternatives/coresignal/), [TheirStack](https://headcountlabs.com/alternatives/theirstack/), [PredictLeads](https://headcountlabs.com/alternatives/predictleads/), [People Data Labs](https://headcountlabs.com/alternatives/people-data-labs/), [Bright Data](https://headcountlabs.com/alternatives/bright-data/), [JobsPikr](https://headcountlabs.com/alternatives/jobspikr/), [Fantastic Jobs](https://headcountlabs.com/alternatives/fantastic-jobs/), [SerpApi](https://headcountlabs.com/alternatives/serpapi/), [all](https://headcountlabs.com/alternatives/)
+- [Job postings datasets by country, US state and occupation](https://headcountlabs.com/data/) and [salary data from job postings](https://headcountlabs.com/salary-data/)
+- Other MCP connectors for U.S. local data: [doctors and clinics](https://headcountlabs.com/docs/doctors/), [places](https://headcountlabs.com/docs/places/), [events](https://headcountlabs.com/docs/events/), [grocery prices](https://headcountlabs.com/docs/products/), [public services](https://headcountlabs.com/docs/public-services/)
+
 ## What Headcount Labs is
 
 Headcount Labs reads the public job boards of employers on Workday, Greenhouse, Lever, iCIMS, SmartRecruiters,
